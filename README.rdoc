@@ -1,4 +1,4 @@
-Form of https://github.com/brendanlim/mobile-fu , where iPad is treated like a 
+Fork of https://github.com/brendanlim/mobile-fu , where iPad is treated like a 
 desktop browser.
 
 = Mobile Fu
